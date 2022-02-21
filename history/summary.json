@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 342,
-    "timeWeek": 342,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "test error",
+    "url": "https://error.fourfats.com/",
+    "icon": "https://favicons.githubusercontent.com/error.fourfats.com",
+    "slug": "test-error",
+    "status": "down",
+    "uptime": "11.80%",
+    "uptimeDay": "11.80%",
+    "uptimeWeek": "11.80%",
+    "uptimeMonth": "11.80%",
+    "uptimeYear": "11.80%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   }
 ]
