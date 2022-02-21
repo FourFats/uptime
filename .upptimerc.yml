@@ -10,8 +10,8 @@ status-website:
   cname: uptime.fourfats.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "uptime monitor and status page"
-  introMessage: 
+  introTitle: "uptime monitor and status page."
+  introMessage: ""
   navbar:
     - title: Status
       href: /
