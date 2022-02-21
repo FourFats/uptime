@@ -5,8 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Blackmoor2
     url: https://blackmoor2.fourfats.com/health
-  - name: test error
-    url: https://error.fourfats.com/
+  - name: ToonShooters2
+    url: https://toonshooters2.fourfats.com/api/getranks
+  - name: Maximus2
+    url: https://maximus2.fourfats.com/health
 
 status-website:
   cname: uptime.fourfats.com
