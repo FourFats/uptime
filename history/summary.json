@@ -18,23 +18,39 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "test error",
-    "url": "https://error.fourfats.com/",
-    "icon": "https://favicons.githubusercontent.com/error.fourfats.com",
-    "slug": "test-error",
-    "status": "down",
-    "uptime": "5.31%",
-    "uptimeDay": "5.31%",
-    "uptimeWeek": "5.31%",
-    "uptimeMonth": "5.31%",
-    "uptimeYear": "5.31%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-02-21": 0
-    }
+    "name": "ToonShooters2",
+    "url": "https://toonshooters2.fourfats.com/api/getranks",
+    "icon": "https://favicons.githubusercontent.com/toonshooters2.fourfats.com",
+    "slug": "toon-shooters2",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 350,
+    "timeDay": 350,
+    "timeWeek": 350,
+    "timeMonth": 350,
+    "timeYear": 350,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Maximus2",
+    "url": "https://maximus2.fourfats.com/health",
+    "icon": "https://favicons.githubusercontent.com/maximus2.fourfats.com",
+    "slug": "maximus2",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 725,
+    "timeDay": 725,
+    "timeWeek": 725,
+    "timeMonth": 725,
+    "timeYear": 725,
+    "dailyMinutesDown": {}
   }
 ]
