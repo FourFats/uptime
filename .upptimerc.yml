@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Blackmoor2
     url: https://blackmoor2.fourfats.com/health
+  - name: test error
+    url: https://error.fourfats.com/
 
 status-website:
   cname: uptime.fourfats.com
