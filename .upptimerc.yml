@@ -3,12 +3,37 @@ owner: fourfats # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
+  - name: Website
+    url: http://www.fourfats.com
+  - name: Website .cn
+    url: http://www.fourfats.cn
+  - name: Signalling
+    url: https://signalling.fourfats.com
+  - name: STUN
+    check: "tcp-ping"
+    url: stun.fourfats.com
+    port: 3478
+    
+    
   - name: Blackmoor2
     url: https://blackmoor2.fourfats.com/health
   - name: ToonShooters2
     url: https://toonshooters2.fourfats.com/api/getranks
   - name: Maximus2
     url: https://maximus2.fourfats.com/health
+  - name: Fatlands
+    url: https://fatlands.fourfats.com
+    
+    
+  - name: Superboys
+    url: http://superboys.fourfats.com:3001/heath
+  - name: GameJam2018
+    url: http://gamejam2018.fourfats.com
+  - name: SmashClub
+    url: https://smashclub.fourfats.com:2096
+  - name: Blackmoor
+    url: https://blackmoor.fourfats.com:8443/health
+    
 
 status-website:
   cname: uptime.fourfats.com
