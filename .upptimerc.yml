@@ -38,6 +38,14 @@ sites:
     url: https://hellfire.fourfats.com:2096/health
     __dangerous__insecure: true
     
+    
+  - name: Mini 
+    url: http://mini.fourfats.com
+    
+  - name: Fatlands (CN)
+    url: https://fatlands.fourfats.cn
+    
+    
 status-website:
   cname: uptime.fourfats.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
