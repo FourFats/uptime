@@ -33,8 +33,11 @@ sites:
     url: https://smashclub.fourfats.com:2096
   - name: Blackmoor
     url: https://blackmoor.fourfats.com:8443/health
+    __dangerous__insecure: true
+  - name: Dungeon Time
+    url: https://hellfire.fourfats.com:2096/health
+    __dangerous__insecure: true
     
-
 status-website:
   cname: uptime.fourfats.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
