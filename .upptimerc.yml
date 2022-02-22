@@ -3,6 +3,15 @@ owner: fourfats # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
+  - name: Fatlands
+    url: https://fatlands.fourfats.com
+  - name: Maximus2
+    url: https://maximus2.fourfats.com/health
+  - name: Blackmoor2
+    url: https://blackmoor2.fourfats.com/health
+  - name: ToonShooters2
+    url: https://toonshooters2.fourfats.com/api/getranks
+    
   - name: Website
     url: http://www.fourfats.com
   - name: Website .cn
@@ -12,18 +21,7 @@ sites:
   - name: STUN
     check: "tcp-ping"
     url: stun.fourfats.com
-    port: 3478
-    
-    
-  - name: Blackmoor2
-    url: https://blackmoor2.fourfats.com/health
-  - name: ToonShooters2
-    url: https://toonshooters2.fourfats.com/api/getranks
-  - name: Maximus2
-    url: https://maximus2.fourfats.com/health
-  - name: Fatlands
-    url: https://fatlands.fourfats.com
-    
+    port: 5349
     
   - name: Superboys
     url: http://superboys.fourfats.com:3001/heath
