@@ -76,10 +76,10 @@
     "url": "http://www.fourfats.com",
     "icon": "https://favicons.githubusercontent.com/www.fourfats.com",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 763,
@@ -88,6 +88,7 @@
     "timeMonth": 763,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2022-03-09": 1,
       "2022-03-05": 23
     }
   },
@@ -96,9 +97,9 @@
     "url": "http://www.fourfats.cn",
     "icon": "https://favicons.githubusercontent.com/www.fourfats.cn",
     "slug": "website-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +108,9 @@
     "timeWeek": 1421,
     "timeMonth": 1369,
     "timeYear": 1369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   },
   {
     "name": "Signalling",
