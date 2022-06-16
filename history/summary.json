@@ -98,9 +98,9 @@
     "url": "http://www.fourfats.cn",
     "icon": "https://favicons.githubusercontent.com/www.fourfats.cn",
     "slug": "website-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 1299,
     "timeMonth": 1238,
     "timeYear": 1279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Signalling",
