@@ -104,9 +104,9 @@
     "url": "http://www.fourfats.cn",
     "icon": "https://favicons.githubusercontent.com/www.fourfats.cn",
     "slug": "website-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -116,6 +116,7 @@
     "timeMonth": 1194,
     "timeYear": 1313,
     "dailyMinutesDown": {
+      "2022-07-23": 0,
       "2022-06-18": 17,
       "2022-06-16": 22
     }
