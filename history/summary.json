@@ -13,7 +13,7 @@
     "time": 663,
     "timeDay": 692,
     "timeWeek": 644,
-    "timeMonth": 651,
+    "timeMonth": 652,
     "timeYear": 663,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 627,
     "timeDay": 703,
     "timeWeek": 645,
-    "timeMonth": 652,
+    "timeMonth": 656,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2022-09-22": 527,
@@ -65,7 +65,7 @@
     "time": 426,
     "timeDay": 361,
     "timeWeek": 782,
-    "timeMonth": 479,
+    "timeMonth": 485,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2022-10-30": 127,
@@ -98,7 +98,7 @@
     "time": 356,
     "timeDay": 368,
     "timeWeek": 379,
-    "timeMonth": 365,
+    "timeMonth": 367,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2022-06-30": 21
@@ -109,19 +109,19 @@
     "url": "http://www.fourfats.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.fourfats.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 611,
-    "timeDay": 0,
-    "timeWeek": 512,
-    "timeMonth": 539,
-    "timeYear": 611,
+    "time": 609,
+    "timeDay": 194,
+    "timeWeek": 466,
+    "timeMonth": 540,
+    "timeYear": 609,
     "dailyMinutesDown": {
-      "2022-11-04": 2,
+      "2022-11-04": 4,
       "2022-06-18": 17,
       "2022-03-05": 23
     }
@@ -131,19 +131,19 @@
     "url": "http://www.fourfats.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.fourfats.cn.ico",
     "slug": "website-cn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
-    "time": 1292,
-    "timeDay": 0,
-    "timeWeek": 1261,
+    "time": 1291,
+    "timeDay": 1011,
+    "timeWeek": 1225,
     "timeMonth": 1339,
-    "timeYear": 1292,
+    "timeYear": 1291,
     "dailyMinutesDown": {
-      "2022-11-04": 0,
+      "2022-11-04": 3,
       "2022-08-22": 39,
       "2022-08-20": 52,
       "2022-08-19": 67,
@@ -166,7 +166,7 @@
     "time": 642,
     "timeDay": 742,
     "timeWeek": 639,
-    "timeMonth": 636,
+    "timeMonth": 638,
     "timeYear": 642,
     "dailyMinutesDown": {}
   },
@@ -202,7 +202,7 @@
     "time": 455,
     "timeDay": 514,
     "timeWeek": 473,
-    "timeMonth": 461,
+    "timeMonth": 464,
     "timeYear": 455,
     "dailyMinutesDown": {}
   },
@@ -220,7 +220,7 @@
     "time": 303,
     "timeDay": 332,
     "timeWeek": 280,
-    "timeMonth": 317,
+    "timeMonth": 319,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2022-06-30": 21
@@ -240,7 +240,7 @@
     "time": 375,
     "timeDay": 321,
     "timeWeek": 304,
-    "timeMonth": 444,
+    "timeMonth": 451,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2022-06-30": 21
@@ -260,7 +260,7 @@
     "time": 839,
     "timeDay": 1005,
     "timeWeek": 893,
-    "timeMonth": 867,
+    "timeMonth": 871,
     "timeYear": 839,
     "dailyMinutesDown": {}
   },
@@ -278,7 +278,7 @@
     "time": 839,
     "timeDay": 952,
     "timeWeek": 859,
-    "timeMonth": 861,
+    "timeMonth": 866,
     "timeYear": 839,
     "dailyMinutesDown": {}
   },
@@ -296,7 +296,7 @@
     "time": 488,
     "timeDay": 555,
     "timeWeek": 497,
-    "timeMonth": 475,
+    "timeMonth": 479,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2022-06-30": 21
@@ -316,7 +316,7 @@
     "time": 1029,
     "timeDay": 1089,
     "timeWeek": 1049,
-    "timeMonth": 1035,
+    "timeMonth": 1038,
     "timeYear": 1029,
     "dailyMinutesDown": {}
   }
