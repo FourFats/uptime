@@ -6,9 +6,9 @@
     "slug": "fatlands",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 666,
     "timeDay": 903,
@@ -16,7 +16,7 @@
     "timeMonth": 683,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2023-01-25": 15
+      "2023-01-25": 23
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "maximus2",
     "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "98.57%",
     "time": 659,
     "timeDay": 668,
@@ -36,7 +36,7 @@
     "timeMonth": 920,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2023-01-25": 15,
+      "2023-01-25": 23,
       "2022-12-27": 46,
       "2022-09-22": 527,
       "2022-09-21": 358,
@@ -139,19 +139,19 @@
     "url": "http://www.fourfats.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.fourfats.cn.ico",
     "slug": "website-cn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.79%",
-    "time": 1423,
-    "timeDay": 2318,
-    "timeWeek": 2443,
-    "timeMonth": 2142,
-    "timeYear": 1423,
+    "time": 1426,
+    "timeDay": 2313,
+    "timeWeek": 2426,
+    "timeMonth": 2147,
+    "timeYear": 1426,
     "dailyMinutesDown": {
-      "2023-01-25": 2,
+      "2023-01-25": 8,
       "2022-12-18": 804,
       "2022-08-22": 39,
       "2022-08-20": 52,
@@ -168,9 +168,9 @@
     "slug": "signalling",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 650,
     "timeDay": 1489,
@@ -178,7 +178,7 @@
     "timeMonth": 700,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2023-01-25": 15
+      "2023-01-25": 23
     }
   },
   {
@@ -188,9 +188,9 @@
     "slug": "stun",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 201,
     "timeDay": 199,
@@ -198,7 +198,7 @@
     "timeMonth": 203,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-01-25": 13
+      "2023-01-25": 21
     }
   },
   {
@@ -323,9 +323,9 @@
     "slug": "fatlands-cn",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.84%",
     "time": 1066,
     "timeDay": 921,
@@ -333,7 +333,7 @@
     "timeMonth": 1096,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2023-01-25": 0,
+      "2023-01-25": 8,
       "2022-12-18": 774
     }
   }
