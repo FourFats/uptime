@@ -4,10 +4,10 @@
     "url": "https://fatlands.fourfats.com",
     "icon": "https://icons.duckduckgo.com/ip3/fatlands.fourfats.com.ico",
     "slug": "fatlands",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 666,
@@ -15,17 +15,19 @@
     "timeWeek": 757,
     "timeMonth": 683,
     "timeYear": 666,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "Maximus2",
     "url": "https://maximus2.fourfats.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/maximus2.fourfats.com.ico",
     "slug": "maximus2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.57%",
     "time": 659,
@@ -34,6 +36,7 @@
     "timeMonth": 920,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2022-12-27": 46,
       "2022-09-22": 527,
       "2022-09-21": 358,
@@ -162,11 +165,11 @@
     "url": "https://signalling.fourfats.com",
     "icon": "https://icons.duckduckgo.com/ip3/signalling.fourfats.com.ico",
     "slug": "signalling",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
     "timeDay": 1489,
@@ -174,7 +177,7 @@
     "timeMonth": 700,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2023-01-25": 5
+      "2023-01-25": 2
     }
   },
   {
@@ -182,9 +185,9 @@
     "url": "206.189.89.149",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -193,7 +196,9 @@
     "timeWeek": 212,
     "timeMonth": 203,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Superboys",
