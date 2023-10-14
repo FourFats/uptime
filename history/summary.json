@@ -197,19 +197,19 @@
     "url": "http://gamejam2018.fourfats.com",
     "icon": "https://icons.duckduckgo.com/ip3/gamejam2018.fourfats.com.ico",
     "slug": "game-jam2018",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 180,
-    "timeWeek": 245,
-    "timeMonth": 281,
+    "timeDay": 222,
+    "timeWeek": 252,
+    "timeMonth": 282,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-10-14": 1
+      "2023-10-14": 6
     }
   },
   {
