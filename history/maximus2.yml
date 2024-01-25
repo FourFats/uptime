@@ -1,7 +1,7 @@
 url: https://maximus2.fourfats.com/health
-status: down
-code: 502
-responseTime: 561
-lastUpdated: 2024-01-25T05:52:12.821Z
+status: up
+code: 200
+responseTime: 664
+lastUpdated: 2024-01-25T05:58:10.375Z
 startTime: 2022-02-21T20:18:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
