@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 677,
     "timeDay": 542,
-    "timeWeek": 634,
+    "timeWeek": 640,
     "timeMonth": 652,
     "timeYear": 657,
     "dailyMinutesDown": {
@@ -112,18 +112,20 @@
     "url": "http://www.fourfats.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.fourfats.cn.ico",
     "slug": "website-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2259,
+    "time": 2262,
     "timeDay": 12611,
     "timeWeek": 6094,
     "timeMonth": 3221,
     "timeYear": 2398,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 0
+    }
   },
   {
     "name": "Signalling",
