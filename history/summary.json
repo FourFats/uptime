@@ -112,19 +112,19 @@
     "url": "http://www.fourfats.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.fourfats.cn.ico",
     "slug": "website-cn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2262,
-    "timeDay": 12611,
-    "timeWeek": 6094,
-    "timeMonth": 3221,
-    "timeYear": 2398,
+    "time": 2319,
+    "timeDay": 17894,
+    "timeWeek": 8330,
+    "timeMonth": 3963,
+    "timeYear": 2467,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 14
     }
   },
   {
