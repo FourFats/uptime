@@ -34,7 +34,7 @@
     "time": 678,
     "timeDay": 727,
     "timeWeek": 757,
-    "timeMonth": 664,
+    "timeMonth": 668,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2023-08-18": 17
@@ -112,18 +112,20 @@
     "url": "http://www.fourfats.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.fourfats.cn.ico",
     "slug": "website-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2354,
+    "time": 2356,
     "timeDay": 2410,
     "timeWeek": 2331,
     "timeMonth": 4008,
     "timeYear": 2471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-25": 0
+    }
   },
   {
     "name": "Signalling",
@@ -263,9 +265,9 @@
     "url": "http://mini.fourfats.com",
     "icon": "https://icons.duckduckgo.com/ip3/mini.fourfats.com.ico",
     "slug": "mini",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -274,7 +276,9 @@
     "timeWeek": 1252,
     "timeMonth": 1068,
     "timeYear": 504,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-25": 0
+    }
   },
   {
     "name": "Fatlands (CN)",
