@@ -112,11 +112,11 @@
     "url": "http://www.fourfats.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.fourfats.cn.ico",
     "slug": "website-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2360,
     "timeDay": 2837,
@@ -124,7 +124,7 @@
     "timeMonth": 3986,
     "timeYear": 2473,
     "dailyMinutesDown": {
-      "2024-02-25": 6
+      "2024-02-25": 0
     }
   },
   {
@@ -265,19 +265,19 @@
     "url": "http://mini.fourfats.com",
     "icon": "https://icons.duckduckgo.com/ip3/mini.fourfats.com.ico",
     "slug": "mini",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 513,
+    "time": 512,
     "timeDay": 1279,
     "timeWeek": 1254,
     "timeMonth": 1075,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2024-02-25": 6
+      "2024-02-25": 0
     }
   },
   {
