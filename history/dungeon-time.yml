@@ -1,7 +1,7 @@
 url: https://hellfire.fourfats.com:2096/health
-status: up
-code: 200
-responseTime: 918
-lastUpdated: 2024-04-01T23:18:46.601Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-07-16T08:59:42.537Z
 startTime: 2022-02-22T05:05:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
