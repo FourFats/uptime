@@ -186,7 +186,7 @@
     "slug": "smash-club",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "99.93%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -206,7 +206,7 @@
     "slug": "blackmoor",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -226,8 +226,8 @@
     "slug": "dungeon-time",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 0
+      "2026-07-16": 1
     }
   },
   {
