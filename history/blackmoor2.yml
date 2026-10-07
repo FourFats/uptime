@@ -1,7 +1,7 @@
 url: https://blackmoor2.fourfats.com/health
-status: down
-code: 500
-responseTime: 334
-lastUpdated: 2026-10-07T00:00:58.730Z
+status: up
+code: 200
+responseTime: 259
+lastUpdated: 2026-10-07T02:08:14.101Z
 startTime: 2022-02-21T19:43:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
